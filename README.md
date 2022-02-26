@@ -1,5 +1,6 @@
 # JavaFX-Chat
 A simple chat application using JavaFX for GUI and sockets.
+The application makes it possible to establish a connection by which a thread can send or receive information using a server and thus it allows communication between two clients through the network. The communication is done on a particular port of the machine.
 
 ### GUI Application:
 

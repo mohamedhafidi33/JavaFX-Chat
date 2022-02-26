@@ -15,6 +15,6 @@ A simple chat application using JavaFX for a GUI and sockets.
 
 <img width="899" alt="received" src="https://user-images.githubusercontent.com/72892818/155857552-1a95f66f-7c10-482a-9387-c3bd9c25cc05.PNG">
 
-## Discussion:
+### Discussion:
 
 <img width="931" alt="discuss" src="https://user-images.githubusercontent.com/72892818/155857565-217da7d8-2536-400a-bcb4-e10cb4efb159.PNG">
